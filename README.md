@@ -14,5 +14,11 @@
   - **PHP** : Langage de programmation s'exécutant côté serveur pour permettre la communication entre l'application et la base de données
   - **Git** : Logiciel de gestion de version
   - **GitHub** : Forge logicielle en ligne utilisant Git
-  - **MySQL** : Système de Gestion de Base de Données Relationnelles exploitant le langage SQL pour effectuer des requêtes afin d'insérer, extraire ou récupérer des données provenant d'une base de données.
+  - **MySQL** : Système de Gestion de Base de Données Relationnelles exploitant le langage SQL pour effectuer des requêtes afin d'insérer, extraire, modifier ou supprimer des données provenant d'une base de données.
 
+ * Structure:
+ 
+ L'application fonctionne selon le design pattern MVC (Modèle-Vue-Contrôleur). Les vues, après interaction des utilisateurs, demandent au contrôleur la mise à jour  des éléments graphiques après avoir préalablement demandé la mise à jour des objets métier.
+ 
+ * Fonctionnement:
+ 
