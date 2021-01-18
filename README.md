@@ -16,7 +16,8 @@
   - **GitHub** : Forge logicielle en ligne utilisant Git
   - **MySQL** : Système de Gestion de Base de Données Relationnelles exploitant le langage SQL pour effectuer des requêtes afin d'insérer, extraire, modifier ou supprimer des données provenant d'une base de données.
 
- ### Structure:
+| Structure:|
+| ----- |
  
  * L'application fonctionne selon le design pattern MVC (Modèle-Vue-Contrôleur). Les vues, après interaction des utilisateurs, demandent au contrôleur la mise à jour  des éléments graphiques après avoir préalablement demandé la mise à jour des objets métier.
  
