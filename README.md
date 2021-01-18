@@ -1,4 +1,4 @@
-# Saisie de frais de visiteurs médicaux - Context GSB - 
+# Saisie de frais de visiteurs médicaux - Contexte GSB - Android
 ### Application Android
 
 
