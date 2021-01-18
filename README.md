@@ -23,7 +23,10 @@
  ### Fonctionnement:
  
 ```sh
-* Au démarrage de l'application, l'utilisateur (via un menu composé de plusieurs boutons avec icône représentant le type de frais) a la possibilité de saisir des frais forfaitisés ou hors forfait, ainsi que de consulter les frais qu'il a déjà préalablement saisis pour un mois et une année (forfaitisés) et pour un jour précis du mois d'une année pour les frais hors forfait.
+* Au démarrage de l'application, l'utilisateur (via un menu composé de plusieurs boutons avec icône 
+représentant le type de frais) a la possibilité de saisir des frais forfaitisés ou hors forfait, 
+ainsi que de consulter les frais qu'il a déjà préalablement saisis pour un mois et une année (forfaitisés) 
+et pour un jour précis du mois d'une année pour les frais hors forfait.
 ```
  
 ```sh
