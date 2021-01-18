@@ -20,5 +20,8 @@
  
  * L'application fonctionne selon le design pattern MVC (Modèle-Vue-Contrôleur). Les vues, après interaction des utilisateurs, demandent au contrôleur la mise à jour  des éléments graphiques après avoir préalablement demandé la mise à jour des objets métier.
  
- * Fonctionnement:
+ ### Fonctionnement:
+ 
+ * Au démarrage de l'application, l'utilisateur (via un menu composé de plusieurs boutons avec icône représentant le type de frais) a la possibilité de saisir des frais forfaitisés ou hors forfait, ainsi que de consulter les frais qu'il a déjà préalablement saisis pour un mois et une année (forfaitisés) et pour un jour précis du mois d'une année pour les frais hors forfait.
+ 
  
