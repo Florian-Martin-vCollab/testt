@@ -17,12 +17,13 @@
   - **MySQL** : Système de Gestion de Base de Données Relationnelles exploitant le langage SQL pour effectuer des requêtes afin d'insérer, extraire, modifier ou supprimer des données provenant d'une base de données.
   
 
-| ###Structure:|
+|Structure:|
 | ----- |
  
  * L'application fonctionne selon le design pattern MVC (Modèle-Vue-Contrôleur). Les vues, après interaction des utilisateurs, demandent au contrôleur la mise à jour  des éléments graphiques après avoir préalablement demandé la mise à jour des objets métier.
  
- ### Fonctionnement:
+|Fonctionnement:|
+| ----- |
  
 * Au démarrage de l'application, l'utilisateur (via un menu composé de plusieurs boutons avec icône représentant le type de frais) a la possibilité de saisir des frais forfaitisés ou hors forfait, ainsi que de consulter les frais qu'il a déjà préalablement saisis pour un mois et une année (forfaitisés) et pour un jour précis du mois d'une année pour les frais hors forfait.
  
@@ -33,7 +34,8 @@ et le motif. Il est aussi possible depuis cet affichage de supprimer un frais vi
 
 * Le choix de la date pour se fait via un objet graphique de type DatePicker (link image si possible) peu importe le type de frais.
 
-### Persistance des données:
+|Persistance des données:|
+| ----- |
 
 * La persistance des données est assurée via sérialisation, il est aussi possible de transférer les données sur une base distante via un simple clic sur un bouton de l'activity principale.
 
